@@ -163,6 +163,7 @@ ul li a:hover {
 
   transition: background 0.3s;
   border-radius: 50%;
+  text-decoration: none;
 }
 
 #social-links a:hover {
